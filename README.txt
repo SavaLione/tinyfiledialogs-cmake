@@ -1,10 +1,3 @@
-# tiny file dialogs cmake
-
-```
-https://sourceforge.net/projects/tinyfiledialogs/
-```
-
-```
 tiny file dialogs ( cross-platform C C++ ) v3.8.8 [Apr 22, 2021] zlib licence
  _________
 /         \   Tray-popup InputBox PasswordBox MessageBox Notification Beep
@@ -184,4 +177,3 @@ Windows :
 
   VisualStudio command line :
 > cl hello.c tinyfiledialogs.c comdlg32.lib ole32.lib user32.lib shell32.lib /W4
-```
